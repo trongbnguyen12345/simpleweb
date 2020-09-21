@@ -1,9 +1,6 @@
 version: 0.2
 
 phases:
-        install:
-
-        pre_build:
 
         build:
                 echo starting the build
